@@ -1,2 +1,2 @@
-# Projeto1_CursoGit
-Tutorial de como usar o Git 
+# Projeto_CursoGit
+Como usar o Git 
